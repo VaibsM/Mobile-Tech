@@ -7,9 +7,9 @@ path <br>/
 <br/>
 <br/>
 Prototype
-<img src="https://github.com/th-10/MobileTech/blob/master/Assignment5_jsonPlaceHolder/prototype.png" width="900">
+<img src="https://github.com/VaibsM/Mobile-Tech/blob/master/Assignment5_jsonPlaceHolder/prototype.png" width="900">
 <br/>
-<img src="https://github.com/th-10/MobileTech/blob/master/Assignment5_jsonPlaceHolder/prototype2.png" width="900">
+<img src="https://github.com/VaibsM/Mobile-Tech/blob/master/Assignment5_jsonPlaceHolder/prototype2.png" width="900">
 <br/>
 
 
